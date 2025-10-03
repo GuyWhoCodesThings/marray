@@ -36,7 +36,7 @@ make clean
 
 ## Tutorial and Usage
 
-MLib’s `tutorial.ipynb` notebook contains a comprehensive, step-by-step tutorial with examples on basic operations, benchmarking performance, and practical use cases like linear regression. It is highly recommended to start there for a guided introduction.
+MLib’s [tutorial.ipynb](tutorial.ipynb) notebook contains a comprehensive, step-by-step tutorial with examples on basic operations, benchmarking performance, and practical use cases like linear regression. It is highly recommended to start there for a guided introduction.
 
 If you don’t have it installed, you may need to install `matplotlib` for plotting in the tutorial:
 
